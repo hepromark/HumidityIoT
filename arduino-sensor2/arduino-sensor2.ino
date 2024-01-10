@@ -7,7 +7,7 @@
 #include "DHT.h"
 
 #define AWS_IOT_PUBLISH_TOPIC "sensor/soil_humidity/plant2"
-#define AWS_IOT_SENSOR_ID 2
+#define AWS_IOT_SENSOR_ID "2"
 
 // Sensor constants
 const int DRY = 650;
