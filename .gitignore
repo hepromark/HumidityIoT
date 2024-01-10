@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# TLS Keys
+Secrets.h
+soil_certs
